@@ -1,4 +1,13 @@
-quantgen_evol
-=============
+#TODO:
 
- Analise de genética quantitativa aplicadas à inferência evolutiva
+## Ogro
+
+- Materiais e métodos
+  - descrição da base
+  - comparação de matrizes
+  - correlação de vetores
+
+## Monique
+
+- Introdução
+  -revisão bibliográfica
