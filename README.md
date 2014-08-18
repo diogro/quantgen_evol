@@ -11,4 +11,4 @@
 
 - Introdução
   - revisão bibliográfica
-  - depois a gente ve
+  - objetivos da analise
