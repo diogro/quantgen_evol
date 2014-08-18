@@ -19,3 +19,4 @@
     - consequencias de modularidade
     - linhas de menor resistência
     - padrão e magnitude
+    
