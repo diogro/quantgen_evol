@@ -10,4 +10,5 @@
 ## Monique
 
 - Introdução
-  -revisão bibliográfica
+  - revisão bibliográfica
+  - depois a gente ve
