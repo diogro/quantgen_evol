@@ -1,4 +1,4 @@
-FILE = apostila
+FILE = article
 
 all :
 	pandoc -o $(FILE)-Bio507.pdf -M lang=portuges --template=template.latex --variable mainfont="FreeSerif" --latex-engine=xelatex --toc --bibliography $(FILE).bib --csl ./evolution.csl $(FILE).md
